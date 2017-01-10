@@ -1,0 +1,1 @@
+operator[].o: ../operator[].cpp
