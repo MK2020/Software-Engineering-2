@@ -1,0 +1,25 @@
+!SESSION 2017-01-10 10:54:20.853 -----------------------------------------------
+eclipse.buildId=4.6.1.M20160907-1200
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -keyring /Users/mwanahusssein/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -data /Users/mwanahusssein/Desktop/2nd Year/SE2 -product org.eclipse.epp.package.cpp.product -keyring /Users/mwanahusssein/.eclipse_keyring
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-10 10:55:07.102
+!MESSAGE Indexed 'mahn' (1 sources, 180 headers) in 12 sec: 22,840 declarations; 46,346 references; 0 unresolved inclusions; 11 syntax errors; 84 unresolved names (0.12%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-10 10:55:14.181
+!MESSAGE Indexed 'Sample_test' (3 sources, 169 headers) in 7.05 sec: 26,938 declarations; 56,443 references; 0 unresolved inclusions; 17 syntax errors; 1,245 unresolved names (1.5%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-10 10:55:19.716
+!MESSAGE Indexed 'fnc_ptr' (1 sources, 179 headers) in 5.53 sec: 22,809 declarations; 45,783 references; 0 unresolved inclusions; 11 syntax errors; 95 unresolved names (0.14%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-10 10:55:26.367
+!MESSAGE Indexed 'sampletest1' (3 sources, 188 headers) in 6.64 sec: 27,245 declarations; 57,202 references; 0 unresolved inclusions; 14 syntax errors; 900 unresolved names (1.1%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-10 10:55:32.034
+!MESSAGE Indexed 'sampletest' (3 sources, 188 headers) in 5.63 sec: 27,289 declarations; 57,458 references; 0 unresolved inclusions; 11 syntax errors; 774 unresolved names (0.91%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-10 10:55:36.031
+!MESSAGE Indexed 'hmmm' (1 sources, 178 headers) in 3.99 sec: 22,804 declarations; 46,229 references; 0 unresolved inclusions; 12 syntax errors; 107 unresolved names (0.15%)
